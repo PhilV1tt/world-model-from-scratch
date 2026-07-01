@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.vscode/
+
+data/
+runs/
+notebooks/
+parking_demo/
+
+*.mp4
+lewm_demo_*
